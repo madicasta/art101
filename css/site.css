@@ -1,0 +1,49 @@
+h1 {
+    color: #6f5060;
+    font-family: "courier new";
+    font-size: 200%;
+    margin-left: 20px
+}
+
+h2 {
+    color: #6f5060;
+    font-family: "courier new";
+    font-size: 200%;
+    margin-left: 20px;
+}
+
+ul {
+    color: #a78682;
+    font-family: "courier new";
+    font-style: italic;
+
+  }
+
+#my-portrait {
+    width: 350px;
+    margin-top: -560px;
+    margin-bottom: 100px;
+    margin-left: 890px;
+
+}
+
+p {
+  color: #a78682;
+  font-family: "courier new";
+  font-size: 105%;
+  text-indent: 30px;
+  font-weight: 500;
+  margin-left: 20px;
+  margin-right: 20px;
+  max-width: 850px;
+}
+
+#content {
+  background-color: #fbf7f4;
+  width: 1340px;
+  height: 620px;
+  padding: 10px;
+  margin: 10px;
+  border: double 20px #51344d;
+  font-size: 20px;
+}
