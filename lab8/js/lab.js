@@ -10,7 +10,7 @@
 
 //test function
 console.log("Is 1 even? ", isEven(1));
-console.log("is 2 even? ", isEven(2));
+console.log("Is 2 even? ", isEven(2));
 
 array = [25, 8, 14, 54, 1001, 2028]
 console.log("My array", array);
